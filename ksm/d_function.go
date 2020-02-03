@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"errors"
 
-	"github.com/Cooomma/ksm/crypto"
+	"github.com/erikbozic/ksm/crypto"
 )
 
 const PRIME = uint32(813416437)

@@ -5,7 +5,7 @@ import (
 	"crypto/md5"
 	"math/rand"
 
-	"github.com/Cooomma/ksm/ksm"
+	"github.com/erikbozic/ksm/ksm"
 )
 
 type RandomContentKey struct {

@@ -1,4 +1,4 @@
-module github.com/Cooomma/ksm/crypto
+module github.com/erikbozic/ksm/crypto
 
 go 1.13
 

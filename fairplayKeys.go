@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Cooomma/ksm/crypto"
+	"github.com/erikbozic/ksm/crypto"
 )
 
 func envBase64Decode(s string) []byte {

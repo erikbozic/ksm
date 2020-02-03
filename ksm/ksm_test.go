@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Cooomma/ksm/crypto"
+	"github.com/erikbozic/ksm/crypto"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -12,7 +12,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/Cooomma/ksm/crypto"
+	"github.com/erikbozic/ksm/crypto"
 )
 
 // SPCContainer represents a container to contain SPC message filed.
